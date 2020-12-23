@@ -1,2 +1,3 @@
 # loan-calculator
-This is a basic loan calculator built with HTML, CSS, JavaScript, and Bootstrap 4.
+Basic loan calculator that allows users to calculate the interest accrual on a simple loan.
+Built with HTML, CSS, JavaScript, and Bootstrap 4.
